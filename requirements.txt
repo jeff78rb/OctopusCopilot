@@ -44,7 +44,7 @@ nptyping==2.5.0
 numpy==1.26.4
 PyJWT==2.10.1
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.6.0
+torch==2.7.1+cpu
 tqdm==4.66.3
 # https://stackoverflow.com/a/67910697/157605
 # Download this file with pip, oherwise the function will try to download it fresh each time.
