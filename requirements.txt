@@ -32,7 +32,7 @@ html-sanitizer==2.5.0
 slack-sdk==3.35.0
 beautifulsoup4==4.13.3
 markdown==3.7
-setuptools==78.1.0
+setuptools==78.1.1
 Jinja2==3.1.6
 gql==3.5.2
 graphql-core==3.2.4
